@@ -6,7 +6,7 @@
     "connect": "Collegati!",
     "connecttomoodle": "Collegati a Moodle",
     "credentials": "Credenziali",
-    "credentialsdescription": "Per faovre inserisci username e password per l'autenticazione",
+    "credentialsdescription": "Per favore inserisci username e password per l'autenticazione ",
     "erroraccesscontrolalloworigin": "La chiamata Cross-Origin che stai effettuando è stata rifiutata. Per ulteriori informazioni: https://docs.moodle.org/dev/Moodle_Mobile_development_using_Chrome_or_Chromium",
     "errordeletesite": "Si è verificato un errore durante l'eliminazione di questo sito. Per favore riprova.",
     "errorupdatesite": "Si è verificato un errore durante l'aggiornamento del token del sito.",
